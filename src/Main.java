@@ -9,5 +9,7 @@ public class Main {
         System.out.println(Math.add(x,y));
         System.out.println("2 - 1 = ");
         System.out.println(Math.sub(x,y));
+        System.out.println("2 * 1 = ");
+        System.out.println(Math.times(x,y));
     }
 }

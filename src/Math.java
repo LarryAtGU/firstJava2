@@ -3,4 +3,5 @@ public class Math {
         return x+y;
     }
     static public int sub (int x, int y) {return x-y;}
+    static public int times (int x, int y) {return x*y;}
 }
